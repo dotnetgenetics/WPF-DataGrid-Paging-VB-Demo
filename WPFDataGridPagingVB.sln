@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WPFDataGridPagingVB", "WPFDataGridPagingVB\WPFDataGridPagingVB.vbproj", "{6FE977B3-CCFD-47CB-A6F0-6604D44F2E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FE977B3-CCFD-47CB-A6F0-6604D44F2E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE977B3-CCFD-47CB-A6F0-6604D44F2E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE977B3-CCFD-47CB-A6F0-6604D44F2E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE977B3-CCFD-47CB-A6F0-6604D44F2E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E6688BF-1ADE-4D86-852B-0B46B4F01255}
+	EndGlobalSection
+EndGlobal
